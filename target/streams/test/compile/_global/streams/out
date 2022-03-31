@@ -1,10 +1,10 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\a.szczepanik\Projekty\s99\src\test\scala\NextPalSpec.scala:10:5: not found: value isPalindrome[0m
-[0m[[0m[31merror[0m] [0m[0m    isPalindrome(33) shouldBe true[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\a.szczepanik\Projekty\s99\src\test\scala\NthSpec.scala:6:10: not found: value Nth[0m
+[0m[[0m[31merror[0m] [0m[0m  import Nth._[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\a.szczepanik\Projekty\s99\src\test\scala\NthSpec.scala:9:5: not found: value nth[0m
+[0m[[0m[31merror[0m] [0m[0m    nth("hello", 2) should be('l')[0m
 [0m[[0m[31merror[0m] [0m[0m    ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\a.szczepanik\Projekty\s99\src\test\scala\NextPalSpec.scala:11:5: not found: value isPalindrome[0m
-[0m[[0m[31merror[0m] [0m[0m    isPalindrome(202) shouldBe true[0m
-[0m[[0m[31merror[0m] [0m[0m    ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\Users\a.szczepanik\Projekty\s99\src\test\scala\NextPalSpec.scala:12:5: not found: value isPalindrome[0m
-[0m[[0m[31merror[0m] [0m[0m    isPalindrome(200) shouldBe false[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\a.szczepanik\Projekty\s99\src\test\scala\NthSpec.scala:10:5: not found: value nth[0m
+[0m[[0m[31merror[0m] [0m[0m    nth("hello world", 10) should be('d')[0m
 [0m[[0m[31merror[0m] [0m[0m    ^[0m
 [0m[[0m[31merror[0m] [0m[0mthree errors found[0m
