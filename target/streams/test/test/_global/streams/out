@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(NextPalSpec, org.scalatest.tools.Framework$$anon$1@9bcc374, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNextPalSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misPalindrome[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 431 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NextPalSpec[0m
